@@ -1,6 +1,9 @@
 # Blender Volumetric Video
 Using the scripts and the blenderfile in this repo you should be able to visualise and modify a volumetric layered video in Blender
 
+> [!WARNING]  
+> This setup is designed for the blender **EEVEE** render pipeline, rendering with cycles will result in some shading articfacts and shadows between stacking layers
+
 To do so you must have:
  - A Source volumetric video in grid format where half of the layers images are RGB and the other half is DEPTH+ALPHA
 
