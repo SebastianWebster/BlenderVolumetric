@@ -34,3 +34,6 @@ $frameOutputDir = "$outputBaseDir\frames"
 
 7. Now try messing with the layers, I found that just using a SimpleDeform Modifier on all layers at once and using a object coordinate to drive the deform produced pretty interesting results
 The Material Node Group can also be modified and animated to change the depth amount of each layer or alpha channel weighting + whatever else you want to add to it
+
+See some of the effects in this video
+https://www.youtube.com/watch?v=LewYDh9U1Aw
